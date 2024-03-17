@@ -19,7 +19,7 @@ Follow the instructions below to build and run the application locally.
    git clone https://github.com/your-username/actuator-demo.git
 2. Navigate to the project directory:
     ```bash
-   cd actuator-demo
+   cd ActuatorDemo
 4. Build the application using Maven
     ```bash
     mvn clean package
